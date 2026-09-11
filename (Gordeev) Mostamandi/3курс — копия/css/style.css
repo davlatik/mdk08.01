@@ -1,0 +1,29 @@
+h1 {
+    color: green;
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+}
+h2 {
+    color: plum;
+    text-decoration: underline;
+}
+ul{
+    list-style-type: circle;
+}
+a:hover{
+    color: red;
+    text-decoration: none;
+}
+a:active{
+    color: aquamarine;
+}
+a:par1{
+    font-size: 100px;
+}
+#unic{
+    color: violet;
+}
